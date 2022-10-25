@@ -5,12 +5,16 @@
 - 📫 How to reach me ...
 
 
-<div style="display: inline_block" >
+<!-- <div style="display: inline_block" >
   <a href="https://github.com/mudouasenha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudouasenha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudouasenha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block" ><br>
+-->
+
+
+<div style="display: inline_block" >
+Stack:<br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
