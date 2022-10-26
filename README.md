@@ -1,8 +1,11 @@
+  <a href="https://www.linkedin.com/in/matheus-gomes-98823b185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+
 - 👋 Hi, I’m Matheus Miranda Torres Gomes!
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Domain Driven Architecture
+- 🌱 I’m currently learning DDD, Microservices, Serialization Libraries, .NET Core
+- 💞️ I’m looking to collaborate on .NET Libraries and Frameworks!
+
+   
 
 
 <!-- <div style="display: inline_block" >
@@ -12,18 +15,18 @@
 </div>
 -->
 
+<br />
+<br />
 
 <div style="display: inline_block" >
-Stack:<br>
-  <img align="center" alt="DotNet Core" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-plain.svg">
-  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="SqlServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="SaaS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<h2>My Stack:</h2><br>
+  <img src="https://deviconapi.vercel.app/?dotnetcore&theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/?csharp&theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/?azure&theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/?graphql&theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/?microsoftsqlserver&theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/?docker&theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/?kubernetes&theme=dark&size=80"/>
   <img src="https://deviconapi.vercel.app/?nodejs&theme=dark&size=80"/>
 </div>
   <br>
