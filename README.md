@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matheus Miranda Torres Gomes!
-- 👀 I’m interested in Domain Driven Architecture
-- 🌱 I’m currently learning DDD, Microservices, Serialization Libraries, .NET Core
+- 👀 I’m interested in Backend Development and Architecture!
+- 🌱 I’m currently learning DDD, Microservices, Serialization Libraries and .NET Core
 - 💞️ I’m looking to collaborate on .NET Libraries and Frameworks!
 
    
