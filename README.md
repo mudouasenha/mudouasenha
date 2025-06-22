@@ -1,8 +1,8 @@
 ##👋 Hi, I’m Matheus Miranda Torres Gomes!
 
-👀 I’m interested in Backend Development and Architecture!
-🌱 I’m currently learning about DDD, Microservices, Serialization Libraries and .NET Core
-💞️ I’m looking to collaborate on .NET Libraries and Frameworks!
+👀 I’m interested in Backend Development and Architecture!<br/>
+🌱 I’m currently learning about DDD, Microservices, Serialization Libraries and .NET Core<br/>
+💞️ I’m looking to collaborate on .NET Libraries and Frameworks!<br/>
 
    
 ## 🌐 Socials:
